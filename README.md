@@ -11,7 +11,7 @@ Clique no botão abaixo para fazer o deploy no Render.com:
 ## ⚙️ Como usar localmente
 
 ```bash
-git clone SEU_REPO_AQUI
+git clone https://github.com/cyberrobot2/BuscasOsint_Bot.git
 cd osint_bot
 pip install -r requirements.txt
 cp .env .env  # edite com seu token
